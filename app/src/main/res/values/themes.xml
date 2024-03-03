@@ -16,5 +16,5 @@
   -->
 
 <resources>
-    <style name="Theme.Superheroes" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.SuperheroesApp" parent="android:Theme.Material.Light.NoActionBar" />
 </resources>
